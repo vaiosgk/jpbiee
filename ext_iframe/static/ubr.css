@@ -1,0 +1,17 @@
+.ubrBody{margin:0}
+.ubrWrapper{text-align:center;margin-left:auto;margin-right:auto}
+.ubrDebug{font:16px Arial;background-color:#fff;border:1px solid #898989;width:900px;height:100px;overflow:auto;text-align:left;margin-left:auto;margin-right:auto}
+.ubrAlert{font:18px Arial;color:red!important}
+.ubrFinishedData{background-color:#b3b3b3;border:1px solid #898989;width:700px}
+.ubrFinishedData th{text-align:center;background-color:#bbb;font-weight:bold}
+.ubrFinishedOdd{text-align:center;background-color:#ddd}
+.ubrFinishedEven{text-align:center;background-color:#eee}
+.ubrUploadData{background-color:#fff;border:1px solid #ddd;width:350px}
+.ubrUploadDataLabel,.ubrUploadDataLabelEnd{background-color:#fbfbfb;font-size:10px;width:50%;text-align:left;font-weight:bold;border-top:1px solid #fff;border-bottom:1px solid #ddd;padding:3px}
+.ubrUploadDataInfo,.ubrUploadDataInfoEnd{background-color:#fbfbfb;font-size:11px;width:50%;text-align:center;border-top:1px solid #fff;border-bottom:1px solid #ddd;padding:3px}
+.ubrUploadDataLabelEnd,.ubrUploadDataInfoEnd{border-bottom-width:0}
+.ubrBar0{height:15px;border:1px solid #0076f4;background-color:#fff;padding:1px}
+.ubrBar1{background-color:#fff;position:relative;text-align:left;height:15px;z-index:5;background-image:url(../../images/progress_bar_white.gif)}
+.ubrBar2{background-color:#0076f4;position:relative;text-align:left;height:15px;width:0;z-index:6;background-image:url(../../images/progress_bar_blue.gif)}
+.ubrError{font:18px Arial;color:red}
+.ubrWarning{color:yellow}

@@ -1,0 +1,212 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #061F00;
+    margin-top: 0px;
+}
+.tulplink {color: #245F00; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+.tulplink:active {color: #FFFFFF; text-decoration: none;}
+.tulplink:hover {color: #f7f9f7; text-decoration: none;}
+
+a:alink,a.alink:active,a.alink:visited,a.alink:hover {color: #FFFFFF; text-decoration: underline; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+ 
+a:link,a:active,a:visited {color: #216B0F; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+a:hover {color: #FF7E00; text-decoration: none;}
+
+a.sort,a.sort:active,a.sort:visited {color: #ff7e00; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;}
+a.sort:hover {color: #b06203; text-decoration: none;}
+
+a.newsheader,a.newsheader:active {color: #216B0F; text-decoration: none; font-family: Arial, Helvetica, sans-serif; font-size: 12px;} 
+a.newsheader:hover {color: #061F00; text-decoration: none;}
+
+a.suurpealkiri,a.suurpealkiri:active {  
+    font-size: 14px;
+    color: #FF7E00;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-decoration: none;
+} 
+a.suurpealkiri:hover {  
+    font-size: 14px;
+    color: #FF7E00;
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+
+table.main { background-color: #FFFFFF; font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #061F00;}
+TABLE.inner  { border-collapse: collapse; border: 1px solid #FAC894; }
+TD.inner     { border: 1px solid #FAC894; }
+TR.inner     { border: 1px solid #FAC894; }
+TD.sort      { border: 1px solid #f7f9f7; }
+TR.sort      { border: 1px solid #f7f9f7; }
+TD.myyk      { border: 1px solid #FAC894; background-color: #EDEDED; font-weight: bold; color: #336600; font-size: 13px;}
+TR.myyk      { border: 1px solid #FAC894; background-color: #EDEDED; font-weight: bold; color: #336600; font-size: 13px;}
+TD.sort_header   { border: 1px solid #f7f9f7; background-color: #f7f9f7; font-weight: bold; color: #FF7E00;}
+TR.sort_header   { border: 1px solid #f7f9f7; background-color: #f7f9f7; font-weight: bold; color: #FF7E00;}
+TD.header    { border: 1px solid #FAC894; background-color: #F8E8D4; font-weight: bold; color: #FF7E00;}
+TR.header    { border: 1px solid #FAC894; background-color: #F8E8D4; font-weight: bold; color: #FF7E00;}
+#dropmenudiv {
+    top: -3px;
+    font-family: Verdana, Helvetica, sans-serif;
+    padding: 2px;
+    font-size: 10px; 
+    position:absolute;
+    border:1px solid #ff7e00;
+    line-height: 1.5;
+}
+
+#dropmenudiv a{
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid #ff9834;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+
+#dropmenudiv a:hover {
+    text-decoration: underline;
+    border-bottom: 1px solid #ff9834;
+    color: #FFFFFF;
+}
+
+.date {
+    font-size: 11px;
+    color: #333333;
+}
+.error { 
+    color: #FF0000;
+}
+.footer {
+    margin-left: 30px;
+    font-size: 11px;
+    color: #FF7E00;
+    background-color: #FFFBF8;
+}
+.loik {
+    font-size: 14px;
+    color: #707070;
+    line-height: 1.5;
+}
+.loik_index {
+    margin-left: 30px;
+    margin-right: 20px;
+    font-size: 14px;
+    color: #707070;
+}
+.left_tulp {
+    margin-left: 15px;
+    font-weight: bold;
+    font-size: 12px;
+    color: #245F00;
+}   
+.main_text {
+    margin-right: 20px;
+    line-height: 1.5;
+    text-align:justify;
+}
+.news {
+    background-color:#FFFFFF;
+}
+.pealkiri {
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+.pildike {
+    padding: 3px;
+    border: solid #BFBFBF 1px;
+}
+.print_footer {
+    font-size: 11px;
+    color: #FF7E00;
+    background-color: #FFFBF8;
+}
+.publika{
+    line-height: 1.5;
+    margin-left: 40px;
+    margin-right: 20px;
+    text-align:justify;
+}
+.table_back {
+    margin-top: 15px;
+    margin-left: 10px;
+    background-color: #F7F9F7;
+}
+.text {
+    line-height: 1.5;
+    margin-left: 30px;
+    margin-right: 20px;
+    text-align:justify;
+}
+.textfield {
+    font-size: 11px;
+    background-color: #D5F2CC;
+    border: 1px solid #344D2C;
+}
+.tyhi_rida {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.vahepealkiri_t {
+    font-size: 14px;
+    color: #FF7E00;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.vahepealkiri {
+    font-size: 14px;
+    color: #FF7E00;
+    margin-left: 30px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+.pointer
+{
+    cursor: pointer;
+}
+
+TABLE.inner  { border-collapse: collapse; border: 1px solid #FAC894; }
+TD.inner     { border: 1px solid #FAC894; }
+TR.inner     { border: 1px solid #FAC894; }
+TD.header    { border: 1px solid #FAC894; background-color: #F8E8D4; font-weight: bold; color: #FF7E00;}
+TR.header    { border: 1px solid #FAC894; background-color: #F8E8D4; font-weight: bold; color: #FF7E00;}
+
+.textfield {
+    font-size: 10px;
+    color: #354655;
+    border: 1px solid #ADADAD;  
+}
+
+.li,ul
+{ 
+    list-style-image: url('text_li.gif'); 
+}
+
+table.map {border:1px dotted #e5e5e5; border-collapse: collapse;}
+td.map {border:1px dotted #e5e5e5;}
+tr.map {border:1px dotted #e5e5e5;}
+td.map_green {
+    background-color: #08a600;
+    border:1px dotted #e5e5e5;
+    filter: alpha(opacity=30); 
+    opacity: 0.3;
+    -moz-opacity:0.3;
+}
+td.map_red {
+    background-color: #a60000;
+    border:1px dotted #e5e5e5;
+    filter: alpha(opacity=30); 
+    opacity: 0.3;
+    -moz-opacity:0.3;
+}
+td.map_yellow {
+    background-color: #fffc00;
+    border:1px dotted #e5e5e5;
+    filter: alpha(opacity=30); 
+    opacity: 0.3;
+    -moz-opacity:0.3;
+}
